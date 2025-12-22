@@ -10,7 +10,7 @@ A showcase of custom Discord bots developed by **DragonF1**, demonstrating profi
 * **Tech Stack:**
     * **Language:** Python 3.10+
     * **Framework:** discord.py 2.0+
-    * **Database:** SQLite3
+    * **Database:** SQLite / LibSQL (Turso)
     * **Infrastructure:** Docker & Docker Compose
 * **Key Features:**
     * **Stock Market Simulation:** Autonomous background simulation with volatility algorithms and "Black Swan" events.
