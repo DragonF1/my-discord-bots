@@ -1,4 +1,4 @@
-# SO Bot (System Optimizer Bot)
+# SO Bot (Swuab's Optimizer Bot)
 
 A comprehensive Discord bot designed for community management, moderation, and automation. This bot includes advanced punishment systems, user tracking, giveaways, and automated utilities.
 
@@ -152,37 +152,5 @@ Manage server giveaways.
 - **End**: `!giveaway end <message_id>`
 - **Reroll**: `!giveaway reroll <message_id>`
 
-### 🤖 Automation & Special
-
-#### `!embed`
-
-Send pre-configured embeds for server information.
-
-- **Usage**: `!embed <option>`
-- **Options**:
-  - `faq`: Frequently Asked Questions (with dropdown).
-  - `verify`: Verification instructions.
-  - `rules`: Server rules.
-  - `info`: Server information.
-
-#### `!say`
-
-Make the bot say a message in a specific channel.
-
-- **Usage**: `!say #channel <message>`
-
-#### `!amsg`
-
-Manage automated messages (if configured).
-
-- **Usage**: `!amsg <list/toggle> [args]`
-
-#### `!test`
-
-Developer testing command for logging events.
-
-- **Usage**: `!test log <type>`
-
----
 
 **SO Bot** | **Optimizing Your Community**
