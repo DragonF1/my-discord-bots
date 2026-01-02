@@ -68,5 +68,24 @@ A showcase of custom Discord bots developed by **DragonF1**, demonstrating profi
     * **Data Integrity:** ACID Compliance, Atomic Transactions, Schema Migration
     * **Web Technologies:** REST API Integration, Advanced Web Scraping (Cloudflare bypass)
 
+### 5. HyClash (Enterprise Moderation System)
+***
+[*Documentation*](./HyClash.md)
+***
+**** Description: **** A sophisticated, production-grade Discord bot built for the Hytale community. It serves as a comprehensive administrative backbone, integrating intelligent content filtering, hierarchical punishment tracking, and a dynamic UI component system.
+
+**** Tech Stack: ****
+* **** Language: **** Python 3.9+
+* **** Framework: **** discord.py 2.3.0+
+* **** Database: **** Supabase (PostgreSQL)
+* **** Infrastructure: **** Docker & Docker Compose
+
+**** Key Features: ****
+* **** Intelligent Automod Engine: **** Utilizes Regex pattern matching and fuzzy string detection to identify bypassed terms and mitigate spam in real-time.
+* **** Discord Components V2 UI: **** Implements a custom template-based UI framework for rich, persistent interactions such as interactive FAQ menus and punishment appeals.
+* **** Robust Punishment Tracking: **** Features a multi-layered system for logging warns, mutes, and bans with AI-driven recommendations based on user history.
+* **** Cloud-Native Persistence: **** Leverages Supabase for resilient data management of user profiles, moderation logs, and server-wide settings.
+
+
 ## 📬 Contact
 For inquiries regarding these projects or development opportunities, please contact **@dragonf1** on discord.
