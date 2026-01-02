@@ -69,4 +69,4 @@ A showcase of custom Discord bots developed by **DragonF1**, demonstrating profi
     * **Web Technologies:** REST API Integration, Advanced Web Scraping (Cloudflare bypass)
 
 ## 📬 Contact
-For inquiries regarding these projects or development opportunities, please contact **DragonF1**.
+For inquiries regarding these projects or development opportunities, please contact **@dragonf1** on discord.
