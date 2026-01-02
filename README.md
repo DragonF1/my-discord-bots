@@ -56,16 +56,6 @@ A showcase of custom Discord bots developed by **DragonF1**, demonstrating profi
     * **Hybrid Search Algorithm:** Asynchronously scrapes external sites (Modrinth, CurseForge) and combines results with local databases for a unified search experience.
     * **SaaS-Inspired Logic:** Implements subscription tiers (Free/Premium/Pro) with strict quota management and automatic expiration tracking.
 
-## 🛠️ General Technical Competencies
-* **Languages:** Python 3.9+, SQL
-* **Core Libraries:** discord.py, asyncio, Aiohttp, Pillow (PIL), Regex, BeautifulSoup4
-* **Cloud & Infrastructure:** Google Drive API, Docker, Docker Compose
-* **Databases:** SQLite3, LibSQL (Turso), Custom JSON Data Stores
-* **Key Concepts:**
-    * **Concurrency:** Asynchronous I/O, Threading, Event-Driven Programming
-    * **Data Integrity:** ACID Compliance, Atomic Transactions, Schema Migration
-    * **Web Technologies:** REST API Integration, Advanced Web Searching
-
 ### 5. HyClash (Enterprise Moderation System)
 [Documentation](./HyClash.md)
 
@@ -82,15 +72,18 @@ A showcase of custom Discord bots developed by **DragonF1**, demonstrating profi
 * **Discord Components V2 UI:** Implements a custom template-based UI framework for rich, persistent interactions such as interactive FAQ menus and punishment appeals.
 * **Robust Punishment Tracking:** Features a multi-layered system for logging warns, mutes, and bans with AI-driven recommendations based on user history.
 * **Cloud-Native Persistence:** Leverages Supabase for resilient data management of user profiles, moderation logs, and server-wide settings.
-
 ---
 
-## Core Proficiencies
-* **Cloud & Hosting:** AWS Hosting
-* **Databases:** Cloud-based Databases
-* **APIs:** REST API, Discord APIs
-* **Main Framework:** discord.py
-* **Secondary Skills:** JavaScript (discord.js), Basic HTML/CSS
+## 🛠️ General Technical Competencies
+* **Core Proficiencies:** discord.py, REST API, Discord APIs, AWS Hosting
+* **Languages:** Python 3.9+, SQL, JavaScript (discord.js), Basic HTML/CSS
+* **Cloud & Infrastructure:** AWS, Google Drive API, Docker, Docker Compose
+* **Databases:** Cloud-based Databases, SQLite3, LibSQL (Turso), Custom JSON Data Stores
+* **Core Libraries:** asyncio, Aiohttp, Pillow (PIL), Regex, BeautifulSoup4
+* **Key Concepts:**
+    * **Concurrency:** Asynchronous I/O, Threading, Event-Driven Programming
+    * **Data Integrity:** ACID Compliance, Atomic Transactions, Schema Migration
+    * **Web Technologies:** REST API Integration, Advanced Web Searching
 
 ## 📬 Contact
 For inquiries regarding these projects or development opportunities, please contact **@dragonf1** on discord.
