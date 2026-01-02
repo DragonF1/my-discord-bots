@@ -56,8 +56,6 @@ A showcase of custom Discord bots developed by **DragonF1**, demonstrating profi
     * **Hybrid Search Algorithm:** Asynchronously scrapes external sites (Modrinth, CurseForge) and combines results with local databases for a unified search experience.
     * **SaaS-Inspired Logic:** Implements subscription tiers (Free/Premium/Pro) with strict quota management and automatic expiration tracking.
 
----
-
 ## 🛠️ General Technical Competencies
 * **Languages:** Python 3.9+, SQL
 * **Core Libraries:** discord.py, asyncio, Aiohttp, Pillow (PIL), Regex, BeautifulSoup4
@@ -66,12 +64,10 @@ A showcase of custom Discord bots developed by **DragonF1**, demonstrating profi
 * **Key Concepts:**
     * **Concurrency:** Asynchronous I/O, Threading, Event-Driven Programming
     * **Data Integrity:** ACID Compliance, Atomic Transactions, Schema Migration
-    * **Web Technologies:** REST API Integration, Advanced Web Scraping (Cloudflare bypass)
+    * **Web Technologies:** REST API Integration, Advanced Web Searching
 
 ### 5. HyClash (Enterprise Moderation System)
-***
 [*Documentation*](./HyClash.md)
-***
 **** Description: **** A sophisticated, production-grade Discord bot built for the Hytale community. It serves as a comprehensive administrative backbone, integrating intelligent content filtering, hierarchical punishment tracking, and a dynamic UI component system.
 
 **** Tech Stack: ****
